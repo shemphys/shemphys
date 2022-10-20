@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/+*******+UNDER+CONSTRUCTION+*******)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&size=30&duration=2000&pause=1000&color=F7E105&center=true&vCenter=true&width=435&lines=*******+UNDER+CONSTRUCTION+*******)](https://git.io/typing-svg)
